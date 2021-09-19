@@ -1,0 +1,4 @@
+#Sun Sep 19 11:01:35 IST 2021
+base.0=D\:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

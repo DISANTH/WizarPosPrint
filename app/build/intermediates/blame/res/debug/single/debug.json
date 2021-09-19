@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\xml_wizarhand_q1.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\xml\\wizarhand_q1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\xml_wizarpos_1.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\xml\\wizarpos_1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selector.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_activity_main.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\layout-port\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\xml_wizarpad_1.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\xml\\wizarpad_1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_shape.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable\\bg_shape.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_test.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\layout\\item_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_item_test.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\layout-port\\item_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\xml_wizarhand_m0.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\xml\\wizarhand_m0.xml"
+    },
+    {
+        "merged": "D:\\Projects\\APIDemoForAar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_item.xml.flat",
+        "source": "D:\\Projects\\APIDemoForAar\\app\\src\\main\\res\\drawable\\bg_item.xml"
+    }
+]
